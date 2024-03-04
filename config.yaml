@@ -1,6 +1,6 @@
 baseURL: "/"
-languageCode: "en-us"
-title: "Resume | MERT BAKIR"
+languageCode: "zh-cn"
+title: "简历 | 许城荣"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme: "resume-a4"
 
@@ -50,25 +50,25 @@ params:
   externalLinkIcon: true
   css:
     - custom.scss
-#   - print_urls.scss
+    # - print_urls.scss
   header:
-    avatar: false # avatar.jpg
+    avatar: true # avatar.jpg
     contact: true
     tagline: true
-    links: false
+    links: true
   side:
-    - feature: languages
+    - feature: education
     - feature: skills
       widget: word-list
       style: compact # list, compact, title-list
-    - feature: education
+    - feature: languages
     - feature: interests
       widget: word-list
       style: list
   pages:
     - features:
         - feature: about
-          title: About Me
+          title: 关于我
         - feature: experience
     - features:
         - feature: experience
@@ -77,12 +77,12 @@ params:
           collection: projects
         - feature: publications
           style: IEEE # IEEE, APA, else
-        - feature: awards
+        # - feature: awards
         - feature: certificates
           title: Certifications
-        - feature: interests
-          widget: word-list
-          style: list
+        # - feature: interests
+        #   widget: word-list
+        #   style: list
   experience:
     tools: 
       show: false
@@ -105,13 +105,13 @@ params:
     show: true
     credits: true
     footnote: >-
-      You can print this resume in A4 size or save as pdf. | Last update on 2020-09-01.
+      You can print this resume in A4 size or save as pdf. | Last update on 2024-03-05.
     links:
       - prefix: Contact me on
         title: Linkedin
-        url: 'https://linkedin.com/in/mertbakir/'
+        url: 'https://www.linkedin.com/in/%E5%9F%8E%E8%8D%A3-%E8%AE%B8-b7256528a/'
         icon: fab fa-linkedin
       - prefix: Check out my
         title: Website
-        url: 'https://mertbakir.gitlab.io/about/'
+        url: 'https://maniac.netlify.app/about/about/'
         icon: fas fa-globe

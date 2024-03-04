@@ -1,11 +1,11 @@
 projects:
-- title: "Simulated Annealing for Traveling Salesman Problem"
+- title: "Simulated"
   subtitle: "Some University"
   date: "2016"
   details: |
     Lorem ipsum dolor sit amet
 
-- title: "Resume - A4"
+- title: "Resume A4"
   subtitle: "mertbakir.gitlab.io/resume"
   link: "https://gitlab.com/mertbakir/resume-a4"
   date: "2020"

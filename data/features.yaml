@@ -1,23 +1,17 @@
 about:
-  name: Mert Bakir
-  tagline: Data Scientist
+  name: 许城荣
+  tagline: 软件工程师
   phone: "5070*4****"
-  email: yourmail@yourdomain
+  email: jasonxu5120@outlook.com
   links:
-    - title: /in/mertbakir
-      url: https://tr.linkedin.com/in/mertbakir
+    - title: 许城荣
+      url: https://www.linkedin.com/in/%E5%9F%8E%E8%8D%A3-%E8%AE%B8-b7256528a/
       icon: fab fa-linkedin
-    - title: mertbakir
-      url: https://gitlab.com/mertbakir/
-      icon: fab fa-gitlab
-    - title: mertbakir
-      url: https://github.com/mertbakir
+    - title: JasonXu
+      url: https://github.com/Jason-233
       icon: fab fa-github
   details: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-    Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta.
-
-    Nam suscipit nisi a bibendum lacinia.
+    细节？
 
 
 skills:
@@ -43,14 +37,14 @@ interests:
   - Optimization Problems
 
 languages:
-  - name: Turkish
+  - name: 中文
     level: Native
 
   - name: English
     level: Professional
     certificates:
-      - "YDS: 86.25 - 2018"
-      - "TOEFL: 109 - 2021"
+      - "CET4: 617 - 2020"
+      - "CET6: 521 - 2021"
 
 # This will use the default widget: "details-list"
 awards:

@@ -1,15 +1,25 @@
-- name: Msc. Industrial Engineering
-  university: Yildiz Technical University
-  location: Istanbul, TR
-  more: with Thesis # Optional field, if you want to add a non-standard line.
-  link: https://... # Optional field, include a link to your project.
-  date: 2019- 2021
-  gpa: 3.71 / 4.00
-  details: >
-    Include details if you like to... 
+- name: 计算机学院 物联网工程 本科
+  university: 哈尔滨理工大学
+  location: 黑龙江省哈尔滨市
+  # more: with Thesis # Optional field, if you want to add a non-standard line.
+  # link: https://... # Optional field, include a link to your project.
+  date: 2020年9月 - 2024年6月
+  gpa: 3.28/5（专业排名前5%）
+  details: |
+    ***
+    *奖学金*：
 
-- name: Bsc. Industrial Engineering
-  university: Gazi University
-  location: Ankara, TR
-  date: 2013 - 2017
-  gpa : 3.35 / 4.00
+      校级二等奖学金（20秋、21春）
+      校级三等奖学金（21秋、22春）
+
+    *荣誉称号*：
+
+      2020级哈尔滨理工大学软件与微电子院新生赛一等奖（C语言）
+      年度校级三好学生（2020-2021、2021-2022）
+
+
+# - name: Bsc. Industrial Engineering
+#   university: Gazi University
+#   location: Ankara, TR
+#   date: 2013 - 2017
+#   gpa : 3.35 / 4.00
