@@ -1,35 +1,42 @@
 about:
   name: 许城荣
-  tagline: 软件工程师
-  phone: "5070*4****"
+  tagline: 人工智能算法工程师 # 软件工程师
+  phone: "1########"
   email: jasonxu5120@outlook.com
   links:
-    - title: 许城荣
-      url: https://www.linkedin.com/in/%E5%9F%8E%E8%8D%A3-%E8%AE%B8-b7256528a/
-      icon: fab fa-linkedin
+    # - title: 许城荣
+    #   url: https://www.linkedin.com/in/%E5%9F%8E%E8%8D%A3-%E8%AE%B8-b7256528a/
+    #   icon: fab fa-linkedin
     - title: JasonXu
       url: https://github.com/Jason-233
       icon: fab fa-github
   details: |
-    细节？
+    熟悉Python、Linux;熟悉图像处理、自然语言处理、目标识别等常用技术和算法;具备良好的数据结构、算法分析和设计基础。具备团队协作精神和良好的沟通能力，能够与其他领域的专业人员合作完成项目。
 
 
 skills:
-  - groupName: Databases & Visualization
+  - groupName: 编程语言
     list:
-      - Grafana - Kibana - PowerBI
-      - InfluxDB - TICK Stack
+      - 掌握C语言，掌握数组、指针、结构体、关键字的使用，熟悉模块化编程思维
+      - 熟练掌握Python编程语言，具备扎实的算法与数据结构基础。
+      - Git - Docker
+      - Linux - CentOS Ubuntu
+      - 掌握Microsoft Office（ppt/excel/word） 等办公软件
+  # - groupName: Databases & Visualization
+  #   list:
+  #     - Grafana - Kibana - PowerBI
+  #     - InfluxDB - TICK Stack
 
-  - groupName: Data Analysis & Analytics
-    list:
-      - Python - R - SQL
-      - Excel - Minitab - SPSS
-      - GAMS - PuLP - OR Tools
+  # - groupName: Data Analysis & Analytics
+  #   list:
+  #     - Python - R - SQL
+  #     - Excel - Minitab - SPSS
+  #     - GAMS - PuLP - OR Tools
 
-  - groupName: Programming & Systems
-    list:
-      - C# - Git - Docker - NGINX
-      - Linux - CentOS RHEL
+  # - groupName: Programming & Systems
+  #   list:
+  #     - C - Git - Docker
+  #     - Linux - CentOS Ubuntu
 
 interests:
   - Data Science
@@ -38,10 +45,10 @@ interests:
 
 languages:
   - name: 中文
-    level: Native
+    level: 母语
 
   - name: English
-    level: Professional
+    level: 流利听说读写
     certificates:
       - "CET4: 617 - 2020"
       - "CET6: 521 - 2021"
@@ -65,12 +72,12 @@ awards:
         prefix: "omg"
 
 certificates:
-  - title: "Supervised Learning: Regression"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/605/ # This link will be on title level.
+  - title: "Scientific Computing With Python"
+    subtitle: freecodecamp
+    date: "2024"
+    link: https://www.freecodecamp.org/certification/Jason_Xu/scientific-computing-with-python-v7 # This link will be on title level.
 
-  - title: "Supervised Learning: Classification"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/388/
+  # - title: "Supervised Learning: Classification"
+  #   subtitle: Coursera
+  #   date: "2020"
+  #   link: https://xkcd.com/388/
