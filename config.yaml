@@ -73,6 +73,7 @@ params:
         - feature: about
           title: About Me
         - feature: experience
+          title: 校园经历？
     # - features:
     #     # - feature: experience
     #     #   title: Experience (Cont.)
