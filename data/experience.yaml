@@ -1,36 +1,51 @@
-- company: Company 1
+- company: 哈尔滨理工大学
   roles:
-    - role: Data
+    - role: 班级心理委员
       details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
+        1. 知识宣传：负责班级心理健康科普讲座落地，先后组织 6 次心理健康讲座等活动，提升同学心理健康知识与意识。 
+        2. 心理辅导：单月完成5位同学的心理沟通和辅导，减少同学学习压力。 
+        3. 问题检测：定期约谈同学，跟进同学生活学习动态，及时发现各种心理异常现象并上报处理。协助老师管理并了解班级情况。
       date: 10.2020 -  Present
-
-- company: Company 2
-  page: 1
-  roles: 
-    - role: Software Developer
-      tools: SQL, Flink, Kafka
+    - role: 
+    - role: 志愿者服务
       details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus.
-      date: 06.2019 - 10.2020
-    
-    - role: Software Developer
-      tools: HTML, PHP, CSS
-      date: 10.2018 - 06.2019
-      details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus.
+        1. 物资分发：通过组织协调志愿者，完成隔离寝室用餐分配。
+        2. 秩序维护：通过现场人群的引流与疏导，降低疫情蔓延风险。
+        3. 防疫宣传：及时完成现场横幅、标识及宣传语的摆挂，提升人们防疫意识。
 
-- company: Company 1
+- company: 哈尔滨理工大学
   page: 2
   roles:
-    - role: Software Developer
-      tools: C#, Python, Postgresql
+    - role: 宿舍长
+      date: 10.2020 -  Present
       details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
-      date: 2017 - 2018
+        1. 卫生管理：制定值日计划，跟踪执行过程，获得文明寝室称号。
+        2. 关系维护：跟进舍友沟通与反馈，有效协调舍友关系
+        3. 上传下达：及时接收和传达宿舍活动及学校各项通知，确保舍友及时接收信息。
+# - company: Company 2
+#   page: 1
+#   roles: 
+#     - role: Software Developer
+#       tools: SQL, Flink, Kafka
+#       details: |
+#         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+#         Aenean nec volutpat arcu. Maecenas quis tempus risus.
+#       date: 06.2019 - 10.2020
+    
+#     - role: Software Developer
+#       tools: HTML, PHP, CSS
+#       date: 10.2018 - 06.2019
+#       details: |
+#         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+#         Aenean nec volutpat arcu. Maecenas quis tempus risus.
+
+# - company: Company 1
+#   page: 2
+#   roles:
+#     - role: Software Developer
+#       tools: C#, Python, Postgresql
+#       details: |
+#         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+#         Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
+#         Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
+#       date: 2017 - 2018

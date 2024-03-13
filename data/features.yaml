@@ -1,17 +1,17 @@
 about:
   name: 许城荣
-  tagline: 人工智能算法工程师 # 软件工程师
+  tagline: 24级应届生求职中 # 软件工程师 人工智能算法工程师
   phone: "1########"
   email: jasonxu5120@outlook.com
   links:
     # - title: 许城荣
     #   url: https://www.linkedin.com/in/%E5%9F%8E%E8%8D%A3-%E8%AE%B8-b7256528a/
     #   icon: fab fa-linkedin
-    - title: JasonXu
+    - title: Jason-233
       url: https://github.com/Jason-233
       icon: fab fa-github
   details: |
-    熟悉Python、Linux;熟悉图像处理、自然语言处理、目标识别等常用技术和算法;具备良好的数据结构、算法分析和设计基础。具备团队协作精神和良好的沟通能力，能够与其他领域的专业人员合作完成项目。
+    熟悉Python、C、Linux;熟悉图像处理、自然语言处理、目标识别等常用技术和算法;具备良好的数据结构、算法分析和设计基础。具备团队协作精神和良好的沟通能力，能够与其他领域的专业人员合作完成项目。
 
 
 skills:
@@ -19,9 +19,22 @@ skills:
     list:
       - 掌握C语言，掌握数组、指针、结构体、关键字的使用，熟悉模块化编程思维
       - 熟练掌握Python编程语言，具备扎实的算法与数据结构基础。
-      - Git - Docker
+      - 具备Shell脚本程序设计开发，阅读汇编能力
+
+  - groupName: 工具环境
+    list:
+      - Git Docker Django
       - Linux - CentOS Ubuntu
-      - 掌握Microsoft Office（ppt/excel/word） 等办公软件
+      - 掌握Microsoft Office等办公软件
+
+  - groupName: IT技能
+    list: 
+      - 熟悉嵌入式开发流程
+      - 人工智能算法应用
+      - ChatGPT、Claude等AI工具使用
+      - Prompt编写优化
+
+
   # - groupName: Databases & Visualization
   #   list:
   #     - Grafana - Kibana - PowerBI
@@ -41,14 +54,14 @@ skills:
 interests:
   - Data Science
   - AI Applications
-  - Optimization Problems
+  # - Optimization Problems
 
 languages:
   - name: 中文
     level: 母语
 
   - name: English
-    level: 流利听说读写
+    level: 流利听说读写（可作为工作语言）
     certificates:
       - "CET4: 617 - 2020"
       - "CET6: 521 - 2021"

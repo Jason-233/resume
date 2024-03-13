@@ -1,17 +1,47 @@
 projects:
-- title: "Simulated"
-  subtitle: "Some University"
-  date: "2016"
+- title: "基于华为云物联网云平台的应用与设备开发项目"
+  subtitle: "哈尔滨理工大学"
+  date: "2023"
   details: |
-    Lorem ipsum dolor sit amet
+    ---
+    
+    - 完成了**华为物联网平台应用侧的数据调试**，利用API平台获取IAM用户的TOKEN，基于**Python SDK开发程序**调用API接口获取设备列表及属性等设备影子信息。
+    - 利用**微信小程序开发工具**，通过**JavaScript语言**使用http/https协议获取设备影子属性信息，并在前端页面上展示可视化图形输出。在**Idea集成开发环境**中，结合**Java语言**、**Processing和ControlP5框架**，实现了同样的功能。
+    - 编写了一个获取数据的应用，并设置了数据转发规则，通过新建的**AMQP推送消息队列**将数据传递给其他系统。
+    - 实现了**智能终端的消息上报业务**，通过**Python串口通讯程序**，实现了华为云平台数据接入和业务数据传输的业务流程。
+    - 在项目中的技术栈包括**Java、Python处理和显示数据**，通讯协议使用**MQTT**，数据协议使用**JSON**。此外，还使用了**用户访问Token**，并成功调用了设备信息API.
 
-- title: "Resume A4"
-  subtitle: "mertbakir.gitlab.io/resume"
-  link: "https://gitlab.com/mertbakir/resume-a4"
-  date: "2020"
-  details: |
-    Bring CI/CD to your resume using YAML and Git."
-  links:
-  - title: Available in GitLab
-    url: https://gitlab.com/mertbakir/resume-a4
-    icon: fab fa-gitlab
+- title: "基于STM32的篮球比赛计时计分器"
+  page: 2
+  subtitle: "哈尔滨理工大学"
+  date: "2022"
+  details: >
+    ---
+
+    基于**STM32开发板**，结合**STM32CubeMX软件**和**Keil软件**开发，成功实现了如下功能：
+      - 通过**ILI9341控制LCD屏幕**作为显示，实现了**对比赛时间、比分、犯规数、暂停次数**等信息的实时监控。
+      - 通过**时钟中断**实现**计分和计秒功能**，包括**暂停时间闪烁**、**刷新进攻时间**等功能。
+      - 通过**按键中断**实现多项功能，包括**赛程时间暂停**、**甲乙队成绩刷新**等。
+    该系统具有**低功耗**、**可靠性**、**安全性**和**低成本**等特点，能够根据实际比赛情况进行实时监控和调整，为篮球比赛提供了**可靠的计时计分解决方案**。
+
+- title: "基于STM32的高频RFID门禁系统设计与实现"
+  page: 2
+  subtitle: "哈尔滨理工大学"
+  date: "2022"
+  details: >
+    ---
+
+    基于**STM32开发板**，结合**STM32CubeMX软件**和**Keil软件**开发，成功实现了如下功能：
+      - 驱动**PN532读写器芯片**，使用**ISO14443-A协议**实现与**MIFARE卡**的通信，并实现对**MIFARE卡的ID号读取和储存功能**。
+      - 编写**安全验证算法**，实现**身份识别与验证功能**，通过**LCD显示屏**展示读取到的ID号，显示是否为**合法用户**。
+    通过这一项目，展现了对**13.56MHz读写器工作方式**、**ISO14443-A协议**和**PN532芯片**的深入理解。同时，通过动手设计和实施**电子标签卡号读取设备**，积累了丰富的实践经验。自主学习和解决问题的能力不断提升，展现了对**物联网工程领域**的热情和执着。
+# - title: "Resume A4"
+#   subtitle: "mertbakir.gitlab.io/resume"
+#   link: "https://gitlab.com/mertbakir/resume-a4"
+#   date: "2020"
+#   details: |
+#     Bring CI/CD to your resume using YAML and Git."
+#   links:
+#   - title: Available in GitLab
+#     url: https://gitlab.com/mertbakir/resume-a4
+#     icon: fab fa-gitlab
