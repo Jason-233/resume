@@ -1,6 +1,6 @@
 about:
   name: 许城荣
-  tagline: 24级应届生求职中 # 软件工程师 人工智能算法工程师
+  tagline: 嵌入式软件工程师 # 24级应届生求职中 人工智能算法工程师
   phone: "17261505120"
   email: jasonxu5120@outlook.com
   links:
@@ -20,6 +20,8 @@ about:
       url: https://jason-233.github.io/resume/
       icon: fas fa-file
   details: |
+    所学**物联网工程专业核心课程**：物联网工程导论、数电模电、计算机组成原理、数据结构、操作系统、微机原理、RFID与传感器技术等。
+    
     熟悉Python、C、Linux;具备良好的数据结构、算法分析和设计基础。具备团队协作精神和良好的沟通能力，能够与其他领域的专业人员合作完成项目。
 
 
